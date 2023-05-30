@@ -78,8 +78,12 @@ h2 {
 img {
   width: 530px;
   height: 545px;
- 
+
 }
+.image{
+  align-items: center;
+  text-align: center;
+  }
 
 h3 {
   text-align: center;
